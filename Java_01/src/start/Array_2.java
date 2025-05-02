@@ -11,7 +11,7 @@ public class Array_2 {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 if (matrix[i][j] == 5) {
-                    System.out.println("5는 [" + i + "][" + j + "]에 있습니다.");
+                    System.out.println("5는 [" + i + "][" + j + "]에 있습니다..");
                 }
             }
         }
